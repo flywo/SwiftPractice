@@ -15,3 +15,6 @@ Learn swfit practice project.
 
 项目5：PictureBrowse
 简单的浏览图片。主要熟悉UICollectionView的使用，流式布局，自定义UICollectionCell等。
+
+项目6：CurrentLocation
+简单的定位。主要是熟悉iPhone定位的使用，位置的解析。

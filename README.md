@@ -21,3 +21,6 @@ Learn swfit practice project.
 
 项目7：SystemRefreshControl
 简单的使用系统自带的刷新控件。主要是熟悉系统自带的刷新控件使用。
+
+项目8：GradientColor
+简单的梯度显示颜色。主要是熟悉怎么显示有梯度的颜色。

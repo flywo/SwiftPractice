@@ -18,3 +18,6 @@ Learn swfit practice project.
 
 项目6：CurrentLocation
 简单的定位。主要是熟悉iPhone定位的使用，位置的解析。
+
+项目7：SystemRefreshControl
+简单的使用系统自带的刷新控件。主要是熟悉系统自带的刷新控件使用。

@@ -24,3 +24,6 @@ Learn swfit practice project.
 
 项目8：GradientColor
 简单的梯度显示颜色。主要是熟悉怎么显示有梯度的颜色。
+
+项目9：ImageScroller
+利用ScrollView简单的实现图片缩放功能。主要是熟悉怎么使用ScrollView的缩放功能。

@@ -27,3 +27,6 @@ Learn swfit practice project.
 
 项目9：ImageScroller
 利用ScrollView简单的实现图片缩放功能。主要是熟悉怎么使用ScrollView的缩放功能。
+
+项目10：VideoBackground
+利用视频做背景的简单实现。主要是熟悉AVPlayerViewController的使用，以及达到用视频做背景的效果。

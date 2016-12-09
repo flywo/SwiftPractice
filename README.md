@@ -30,3 +30,6 @@ Learn swfit practice project.
 
 项目10：VideoBackground
 利用视频做背景的简单实现。主要是熟悉AVPlayerViewController的使用，以及达到用视频做背景的效果。
+
+项目11：ColorProgress
+简单的实现彩色的进度条。主要是熟悉swift的继承，CALayer动画的实现。

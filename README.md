@@ -36,3 +36,6 @@ Learn swfit practice project.
 
 项目12：TableHeaderView
 一个TableHeaderView跟随着下拉放大图片，上拉缩小图片功能。主要是利用ScrollView的contentInset属性，实现该效果。
+
+项目13：AnimateTableView
+TableViewCell动画。熟悉TableViewCell动画的实现。

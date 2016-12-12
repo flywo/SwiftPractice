@@ -39,3 +39,6 @@ Learn swfit practice project.
 
 项目13：AnimateTableView
 TableViewCell动画。熟悉TableViewCell动画的实现。
+
+项目14：WaveView
+波浪形的动画。熟悉CAShapeLayer、CADisplayLink的使用。

@@ -42,3 +42,6 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 
 项目14：WaveView
 波浪形的动画。熟悉CAShapeLayer、CADisplayLink的使用。
+
+项目15：ShapeLayerAnimation
+采用UIBezierPath和CAShapeLayer配合，实现动画效果。加深对CAShapeLayer的熟悉，熟悉CABasicAnimation动画的实现。

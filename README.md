@@ -51,3 +51,6 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 
 项目17：AnimatedSplash
 关键帧动画实现类似twitter加载首页效果。熟悉关键帧动画CAKeyframeAnimation的使用。
+
+项目18：ChildVCTransition
+转场动画最简单的实现方式。利用ViewController的transition方法，实现VC的子VC之间跳转的转场动画。

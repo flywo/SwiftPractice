@@ -48,3 +48,6 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 
 项目16：PickerView
 用PickerView实现的时间选择器。熟悉PickerView的使用。
+
+项目17：AnimatedSplash
+关键帧动画实现类似twitter加载首页效果。熟悉关键帧动画CAKeyframeAnimation的使用。

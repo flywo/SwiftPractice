@@ -54,3 +54,6 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 
 项目18：ChildVCTransition
 转场动画最简单的实现方式。利用ViewController的transition方法，实现VC的子VC之间跳转的转场动画。
+
+项目19：CustomPushTransition
+实现push、pop动画。该转场动画的实现方式比较适合用导航栏push、pop的时候用，UITabbarController等也适合。

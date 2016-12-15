@@ -57,3 +57,6 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 
 项目19：CustomPushTransition
 实现push、pop动画。该转场动画的实现方式比较适合用导航栏push、pop的时候用，UITabbarController等也适合。
+
+项目20：MusicPlayer
+一个简易的音乐播放器。熟悉FileManager对文件的操作(复制、粘贴、查找等)，AudioPlayer播放音乐，do-catch处理throws抛出的异常等。

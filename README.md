@@ -63,3 +63,6 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 
 项目21：TumblrMenu
 模态视图的呈现。熟悉了模态视图的呈现方法，呈现模态视图自定义转场动画，修改系统按钮图标、标题位置的方法。
+
+项目22：LoginView
+登录页面。熟悉如何监听键盘show和hidden通知，自定义Log使其在测试时打印输出，发布时不输出，提高app性能。

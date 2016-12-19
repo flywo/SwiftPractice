@@ -66,3 +66,6 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 
 项目22：LoginView
 登录页面。熟悉如何监听键盘show和hidden通知，自定义Log使其在测试时打印输出，发布时不输出，提高app性能。
+
+项目23：URLImage
+加载网络图片。熟悉URLSession下载图片，发送GET请求，GCD实现线程切换等操作。

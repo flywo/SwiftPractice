@@ -69,3 +69,6 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 
 项目23：URLImage
 加载网络图片。熟悉URLSession下载图片，发送GET请求，GCD实现线程切换等操作。
+
+项目24：CollectionViewAnimation
+集合视图动画。熟悉CollectionView使用，自定义cell，闭包使用，结构体自定义等。

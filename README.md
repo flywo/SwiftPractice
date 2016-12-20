@@ -116,3 +116,8 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 集合视图动画。熟悉CollectionView使用，自定义cell，闭包使用，结构体自定义等。
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project24_CollectionViewAnimation/24.gif)
+
+##项目25：SwipeableCell
+TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的使用等。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project25_SwipeableCell/25.gif)

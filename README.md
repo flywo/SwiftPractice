@@ -121,3 +121,8 @@ TableViewCell动画。熟悉TableViewCell动画的实现。
 TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的使用等。
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project25_SwipeableCell/25.gif)
+
+##项目26：SortableCollectionView
+可拖动的CollectionViewCell。没有利用iOS9系统提供的方法，该实现方式适用用iOS8以上系统。熟悉协议、代理的使用。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project26_SortableCollectionView/26.gif)

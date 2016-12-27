@@ -131,3 +131,8 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 自定义CollectionLayout，实现环形、线性、瀑布流布局。熟悉协议代理，如何自定义CollectionView布局等。
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project27_CustomCollectionLayout/27.gif)
+
+##项目28：MosaicLayout
+使用第三方实现拼接形式的CollectionView。采用了Swift、OC混编的模式，使用了cocoapods。熟悉了如何混编Swift和OC。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project28_MosaicLayout/28.gif)

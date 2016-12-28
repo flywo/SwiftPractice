@@ -136,3 +136,10 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 使用第三方实现拼接形式的CollectionView。采用了Swift、OC混编的模式，使用了cocoapods。熟悉了如何混编Swift和OC。
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project28_MosaicLayout/28.gif)
+
+##项目29：BasicAnimation
+基础动画。熟悉简单的基础动画实现，闭包循环引用解决等。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project29_BasicAnimation/29.gif)
+
+

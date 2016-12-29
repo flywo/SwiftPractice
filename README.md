@@ -147,4 +147,10 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project30_SQLite/30.gif)
 
+##项目31：TabbarController
+使用TabbarController。熟悉TabbarController的使用，切换时实现动画效果等。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project31_TabbarController/31.gif)
+
+
 

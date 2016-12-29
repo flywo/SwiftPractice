@@ -142,4 +142,9 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project29_BasicAnimation/29.gif)
 
+##项目30：SQLite
+使用FMDB对SQLite数据库进行操作。熟悉FMDB使用，数据库增删改查等操作。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project30_SQLite/30.gif)
+
 

@@ -152,5 +152,8 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project31_TabbarController/31.gif)
 
+##项目32：Regex
+使用正则表达式，获取维基百科上面的中国省市别名。熟悉iOS中如何使用正则表达式，保存数据到plist文件中等操作。
 
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project32_Regex/32.gif)
 

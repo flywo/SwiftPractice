@@ -157,3 +157,8 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project32_Regex/32.gif)
 
+##项目33：SearchVC
+搜索功能的实现。熟悉UISearchController的使用，利用拼音首字母或汉字进行搜索。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project33_SearchVC/33.gif)
+

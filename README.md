@@ -172,3 +172,8 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project35_MultilevelMenu/35.gif)
 
+##项目36：SpeechRecognition
+语音识别功能，iOS10新出API，学习如何使用。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project36_SpeechRecognition/36.gif)
+

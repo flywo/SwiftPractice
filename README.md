@@ -162,3 +162,8 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project33_SearchVC/33.gif)
 
+##项目34：QRCode
+二维码扫描。实现摄像头扫描和图片扫描两种方式。熟悉iOS如何实现。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project34_QRCode/34.gif)
+

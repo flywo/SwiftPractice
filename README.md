@@ -182,3 +182,8 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project37_NetPictures/37.gif)
 
+##项目38：NightMode
+夜间模式的简单实现方式。实现最简单的夜间模式正常模式的切换功能。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project38_NightMode/38.gif)
+

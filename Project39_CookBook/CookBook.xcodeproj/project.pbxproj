@@ -1,0 +1,383 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7A26B56D1E35A7CE00C4C191 /* ShowVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A26B56C1E35A7CE00C4C191 /* ShowVC.swift */; };
+		7ACAD9301E34893B00F58132 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7ACAD92F1E34893B00F58132 /* Assets.xcassets */; };
+		7ACAD9321E3495AC00F58132 /* NetManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ACAD9311E3495AC00F58132 /* NetManager.swift */; };
+		7AD4E29E1E31AEAD002D21EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD4E29D1E31AEAD002D21EF /* AppDelegate.swift */; };
+		7AD4E2A01E31AEAD002D21EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD4E29F1E31AEAD002D21EF /* ViewController.swift */; };
+		7AD4E2A81E31AEAD002D21EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AD4E2A61E31AEAD002D21EF /* LaunchScreen.storyboard */; };
+		7AD4E2B01E31E945002D21EF /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD4E2AF1E31E945002D21EF /* MainVC.swift */; };
+		948452C75E24482225D58BAC /* Pods_CookBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5B93CD02D0898CE72742DC2 /* Pods_CookBook.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2A892CEE0EF209D016832109 /* Pods-CookBook.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookBook.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CookBook/Pods-CookBook.debug.xcconfig"; sourceTree = "<group>"; };
+		7A26B56C1E35A7CE00C4C191 /* ShowVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowVC.swift; sourceTree = "<group>"; };
+		7ACAD92F1E34893B00F58132 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7ACAD9311E3495AC00F58132 /* NetManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetManager.swift; sourceTree = "<group>"; };
+		7AD4E29A1E31AEAC002D21EF /* CookBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CookBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AD4E29D1E31AEAD002D21EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7AD4E29F1E31AEAD002D21EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7AD4E2A71E31AEAD002D21EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7AD4E2A91E31AEAD002D21EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7AD4E2AF1E31E945002D21EF /* MainVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		A5B93CD02D0898CE72742DC2 /* Pods_CookBook.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CookBook.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8D47DAD9C13A0D2644E393E /* Pods-CookBook.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookBook.release.xcconfig"; path = "Pods/Target Support Files/Pods-CookBook/Pods-CookBook.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7AD4E2971E31AEAC002D21EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				948452C75E24482225D58BAC /* Pods_CookBook.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		18C7BECAB2EBC5F390076CFA /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2A892CEE0EF209D016832109 /* Pods-CookBook.debug.xcconfig */,
+				C8D47DAD9C13A0D2644E393E /* Pods-CookBook.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7AD4E2911E31AEAC002D21EF = {
+			isa = PBXGroup;
+			children = (
+				7AD4E29C1E31AEAC002D21EF /* CookBook */,
+				7AD4E29B1E31AEAC002D21EF /* Products */,
+				18C7BECAB2EBC5F390076CFA /* Pods */,
+				7FA708E7667F83D6B464E9E8 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		7AD4E29B1E31AEAC002D21EF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7AD4E29A1E31AEAC002D21EF /* CookBook.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7AD4E29C1E31AEAC002D21EF /* CookBook */ = {
+			isa = PBXGroup;
+			children = (
+				7ACAD92F1E34893B00F58132 /* Assets.xcassets */,
+				7AD4E29D1E31AEAD002D21EF /* AppDelegate.swift */,
+				7AD4E29F1E31AEAD002D21EF /* ViewController.swift */,
+				7AD4E2AF1E31E945002D21EF /* MainVC.swift */,
+				7A26B56C1E35A7CE00C4C191 /* ShowVC.swift */,
+				7ACAD9311E3495AC00F58132 /* NetManager.swift */,
+				7AD4E2A61E31AEAD002D21EF /* LaunchScreen.storyboard */,
+				7AD4E2A91E31AEAD002D21EF /* Info.plist */,
+			);
+			path = CookBook;
+			sourceTree = "<group>";
+		};
+		7FA708E7667F83D6B464E9E8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A5B93CD02D0898CE72742DC2 /* Pods_CookBook.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7AD4E2991E31AEAC002D21EF /* CookBook */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7AD4E2AC1E31AEAD002D21EF /* Build configuration list for PBXNativeTarget "CookBook" */;
+			buildPhases = (
+				B46FB69007DE4FF67BD6A89C /* [CP] Check Pods Manifest.lock */,
+				7AD4E2961E31AEAC002D21EF /* Sources */,
+				7AD4E2971E31AEAC002D21EF /* Frameworks */,
+				7AD4E2981E31AEAC002D21EF /* Resources */,
+				E32FD8B484564AA46CCD3652 /* [CP] Embed Pods Frameworks */,
+				A5D46B8E75183BDD91D82681 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CookBook;
+			productName = CookBook;
+			productReference = 7AD4E29A1E31AEAC002D21EF /* CookBook.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7AD4E2921E31AEAC002D21EF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = YuHua;
+				TargetAttributes = {
+					7AD4E2991E31AEAC002D21EF = {
+						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 7AD4E2951E31AEAC002D21EF /* Build configuration list for PBXProject "CookBook" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7AD4E2911E31AEAC002D21EF;
+			productRefGroup = 7AD4E29B1E31AEAC002D21EF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7AD4E2991E31AEAC002D21EF /* CookBook */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7AD4E2981E31AEAC002D21EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ACAD9301E34893B00F58132 /* Assets.xcassets in Resources */,
+				7AD4E2A81E31AEAD002D21EF /* LaunchScreen.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A5D46B8E75183BDD91D82681 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CookBook/Pods-CookBook-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B46FB69007DE4FF67BD6A89C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		E32FD8B484564AA46CCD3652 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CookBook/Pods-CookBook-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7AD4E2961E31AEAC002D21EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7AD4E2A01E31AEAD002D21EF /* ViewController.swift in Sources */,
+				7ACAD9321E3495AC00F58132 /* NetManager.swift in Sources */,
+				7AD4E2B01E31E945002D21EF /* MainVC.swift in Sources */,
+				7A26B56D1E35A7CE00C4C191 /* ShowVC.swift in Sources */,
+				7AD4E29E1E31AEAD002D21EF /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7AD4E2A61E31AEAD002D21EF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7AD4E2A71E31AEAD002D21EF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7AD4E2AA1E31AEAD002D21EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7AD4E2AB1E31AEAD002D21EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7AD4E2AD1E31AEAD002D21EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2A892CEE0EF209D016832109 /* Pods-CookBook.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CookBook/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yuhua.CookBook;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		7AD4E2AE1E31AEAD002D21EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C8D47DAD9C13A0D2644E393E /* Pods-CookBook.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CookBook/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yuhua.CookBook;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7AD4E2951E31AEAC002D21EF /* Build configuration list for PBXProject "CookBook" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AD4E2AA1E31AEAD002D21EF /* Debug */,
+				7AD4E2AB1E31AEAD002D21EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7AD4E2AC1E31AEAD002D21EF /* Build configuration list for PBXNativeTarget "CookBook" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AD4E2AD1E31AEAD002D21EF /* Debug */,
+				7AD4E2AE1E31AEAD002D21EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7AD4E2921E31AEAC002D21EF /* Project object */;
+}

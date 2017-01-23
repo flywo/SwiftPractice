@@ -187,3 +187,8 @@ TableView左划出现操作菜单功能。熟悉实现方式，AlertControl的�
 
 ![image](https://github.com/flywo/SwiftPractice/blob/master/Project38_NightMode/38.gif)
 
+##项目39：CookBook
+一个简单的菜谱app。基本功能已经全部具备。
+
+![image](https://github.com/flywo/SwiftPractice/blob/master/Project39_CookBook/39.gif)
+

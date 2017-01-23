@@ -29,6 +29,7 @@ class ShowVC: UIViewController {
         guard ID != 0 else {
             return
         }
+        NetManager.share.HUDShow()
         web.load(URLRequest(url: URL(string: "http://wp.asopeixun.com/?p=\(ID)")!))
     }
    
@@ -38,7 +39,6 @@ class ShowVC: UIViewController {
 extension ShowVC: WKNavigationDelegate {
     func webView(_ webView: WKWebView, didStartProvisionalNavigation navigation: WKNavigation!) {
         print("开始加载网页")
-        NetManager.share.HUDShow()
     }
     func webView(_ webView: WKWebView, didCommit navigation: WKNavigation!) {
         print("加载网页到页面")
